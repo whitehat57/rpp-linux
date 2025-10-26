@@ -34,7 +34,7 @@
 
 ---
 
-## Rujukan regulasi (untuk melampiri silabus)
+## Rujukan regulasi
 
 * **Permendikbud No. 22 Tahun 2016** tentang **Standar Proses** – pengertian, prinsip, dan **komponen silabus** (Lampiran Bab III). 
 * **Panduan Pembelajaran dan Asesmen (Kurikulum Merdeka)** – **komponen Modul Ajar** (Tabel 3.4—3.5) bila sekolah menerapkan format Merdeka. 
